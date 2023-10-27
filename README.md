@@ -35,8 +35,6 @@
             Hello, I am Dr. Mohamed Farahat. I am a medical specialist with a master's degree in microbiology. With a passion for healthcare and a deep understanding of microbiology, I am dedicated to making a difference in the medical field.
             <br><br>
             You can contact me at: <!-- +201065647682-->
-                        You can contact me at: <!-- email: mohamedfarahat839@gmail.com-->
-
         </p>
     </div>
 </body>
